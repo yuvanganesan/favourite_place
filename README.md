@@ -1,16 +1,5 @@
-# favourite_places
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-10-26-09-14-22-294_com example favourite_places](https://github.com/yuvanganesan/favourite_place/assets/122734129/1fe1c9c9-4f17-4ce3-b5ac-21fb00235d7f)
+![Screenshot_2023-10-26-09-16-54-456_com example favourite_places](https://github.com/yuvanganesan/favourite_place/assets/122734129/68aae62c-a2da-4910-828c-a6a5dc8a6c8f)
+![Screenshot_2023-10-26-09-17-11-685_com example favourite_places](https://github.com/yuvanganesan/favourite_place/assets/122734129/367da4ed-1346-4a32-abdb-28517822cd90)
+![Screenshot_2023-10-26-09-17-17-242_com example favourite_places](https://github.com/yuvanganesan/favourite_place/assets/122734129/23de4eea-a7eb-4d43-981f-ad9e486baa17)
+![Screenshot_2023-10-26-09-14-17-011_com example favourite_places](https://github.com/yuvanganesan/favourite_place/assets/122734129/6ae43755-1446-4d2c-800e-ff7ff4e4d668)
